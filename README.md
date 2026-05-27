@@ -3,7 +3,7 @@
 
 <p align="center">
   <h1 align="center">
-    <a href="https://remi-514.github.io/remisOSU/">進入遊戲</a>
+    <a href="https://remilia514.github.io/remisOSU/">進入遊戲</a>
   </h1>
   
 <p align="center">
